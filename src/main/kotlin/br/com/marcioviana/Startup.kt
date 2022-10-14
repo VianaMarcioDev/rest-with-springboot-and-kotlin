@@ -4,8 +4,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class RestWithSpringbootAndKotlinApplication
+class Startup
 
 fun main(args: Array<String>) {
-	runApplication<RestWithSpringbootAndKotlinApplication>(*args)
+	runApplication<Startup>(*args)
 }
